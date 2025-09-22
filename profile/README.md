@@ -7,7 +7,7 @@
 
 
 <div align="center">  
-  <img src="./pics/head_bar.jpg" width="100%" alt="Robotics Reinforcement Learning Banner">  
+  <img src="../pics/head_bar.jpg" width="100%" alt="Robotics Reinforcement Learning Banner">  
   <!-- 提示：可替换为团队专属Banner图，建议包含机器人、运动轨迹、RL相关元素 -->
 </div>  
 
