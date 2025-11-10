@@ -1,74 +1,79 @@
-# ✨ @Renforce Dynamics: Enabling the Next Generation of Robotic Motion
-
 <div align="center">
-  <img src="./pics/head_bar.jpg" width="100%" alt="Robotics Reinforcement Learning Banner">
+  <h1 style="
+    font-size: 2.8em; 
+    font-weight: 900; 
+    letter-spacing: 2px;
+    background: linear-gradient(45deg, #2962FF, #FF6F00, #2962FF); /* 科技蓝到活力橙的渐变 */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+  ">RENFORCE DYNAMICS</h1>
   
-  <h1><span style="color:#00C853; font-size:1.5em; font-weight:bold;">Renforce Dynamics</span></h1>
-  <p style="font-size:1.2em; color: #616161; font-style: italic;">
-    🚀 Driving Precision Motion in Robotics through Reinforcement Learning (RL)</p>
-  
-  <div style="margin: 15px 0;">
-    <a href="#focus" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Our%20Focus-RL%20&%20Robotics-2962FF?style=for-the-badge&logo=github" alt="Focus Badge"/>
-    </a>
-    <a href="https://renforce-dynamics.github.io" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Visit%20Website-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Website Badge"/>
-    </a>
-  </div>
+  <p style="font-size: 1.1em; color: #424242; font-style: italic; margin-top: -10px;">
+    // **Precision Robotics** ∩ **Deep Reinforcement Learning**
+  </p>
 </div>
 
 ---
 
-<a name="focus"></a>
-## 💡 Our Focus: RL-Powered Motion Intelligence
+## ⚡ Real-Time Status & Impact
 
-We bridge cutting-edge **AI algorithms** with **real-world robotic systems**, specializing in building adaptive, efficient, and robust motion solutions.
+<div align="center">
+  <p>Our impact, live:</p>
+  
+  <img src="https://img.shields.io/badge/Repos-5%2B-00C853?style=for-the-badge&logo=github" alt="Repositories Badge"/>
+  <img src="https://img.shields.io/badge/Total%20Commits-1.2K-2962FF?style=for-the-badge&logo=git" alt="Commits Badge"/>
+  <img src="https://img.shields.io/badge/Open%20Issues-3-FF6F00?style=for-the-badge&logo=githubactions" alt="Open Issues Badge"/>
+  <img src="https://img.shields.io/badge/Active%20Members-8-4CAF50?style=for-the-badge&logo=slack" alt="Active Members Badge"/>
+  
+  <p style="font-size: 0.8em; color: #757575;">(Note: Stats above are illustrative. Connect your data pipeline for live updates.)</p>
+</div>
 
-| Core Focus | Key Challenges We Solve | 
+---
+
+## 💡 Core Focus: RL-Driven Motion
+
+**MISSION:** To forge **adaptive**, **efficient**, and **robust** robotic motion solutions by mastering the fusion of **AI** and **Physical Systems**.
+
+| Domain | Value Proposition | 
 | :--- | :--- | 
-| **🧠 Reinforcement Learning (RL)** | Efficiency and convergence of algorithms in dynamic environments |
-| **⚙️ Motion Control (Control)** | Optimizing real-time responsiveness and multi-joint stability |
-| **🗺️ Motion Planning (Planning)** | Path robustness in complex, unstructured scenarios |
+| **Deep RL** | Algorithmic excellence in dynamic, real-world robotic control. |
+| **Motion Control** | Optimized stability and real-time responsiveness for complex actuators. |
+| **System Integration** | Seamless transition from simulation-to-hardware (Sim2Real). |
 
 <br>
 
-## 🤝 Collaborate with Us / Join the Team! (Call to Action)
+## 🚀 Join Our Mission
 
-We are actively seeking **researchers, engineers, and teams** who are passionate about the intersection of robotics and RL.
+We are looking for brilliant minds to push the boundaries of RL and Robotics.
 
-### Open Roles
-We are looking for talented individuals with expertise in:
-* **[Intern] RL Research** (Focus on algorithm optimization for robotics)
-* **[Intern] Robotics Engineer** (Focus on hardware-software integration and deployment)
-* **[Full-Time] Motion Planner** (For experienced candidates)
+* **Open Roles:** RL Intern, Robotics Engineer Intern, Full-Time Motion Planner.
+* **Collaborate:** Joint research, open-source contributions, and guest talks are welcome!
 
 <div align="center" style="margin: 20px 0;">
   <a href="mailto:ziang_zheng@foxmail.com" style="text-decoration:none;">
     <button style="
-      background-color: #FF6F00; 
+      background-color: #FF6F00;
       color: white; 
-      padding: 12px 25px; 
-      font-size: 18px; 
+      padding: 15px 35px; 
+      font-size: 1.1em; 
       font-weight: bold;
-      border: none; 
-      border-radius: 8px;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.2); 
-      transition: background-color 0.3s ease; 
+      border: 3px solid #E65100; /* 边框特效 */
+      border-radius: 8px; 
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2); 
+      transition: background-color 0.3s, transform 0.2s; 
       cursor: pointer;" 
-      onmouseover="this.style.backgroundColor='#E65100'" 
-      onmouseout="this.style.backgroundColor='#FF6F00'">
-      📩 Apply / Initiate Collaboration
+      onmouseover="this.style.backgroundColor='#E65100'; this.style.transform='scale(1.02)'" 
+      onmouseout="this.style.backgroundColor='#FF6F00'; this.style.transform='scale(1.0)'">
+      EMAIL US FOR CAREERS & PARTNERSHIPS
     </button>
   </a>
 </div>
 
-### 🌐 Stay Connected
-* **Website**：[renforce-dynamics.github.io](https://renforce-dynamics.github.io)
-* **Email**：[ziang_zheng@foxmail.com](ziang_zheng@foxmail.com)
-* **Updates**：Follow this organization for team news and project releases.
-
 ---
 
 <div align="center">
-  <p style="font-style: italic; color: #4CAF50;">💡 Let's shape the future of high-precision robotic motion together!</p>
+  <a href="https://renforce-dynamics.github.io">Website</a> | 
+  <a href="mailto:ziang_zheng@foxmail.com">Email</a> | 
+  <a href="https://github.com/RenforceDynamics/YOUR_MAIN_REPO/discussions">Discussions</a>
 </div>
