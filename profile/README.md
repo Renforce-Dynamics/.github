@@ -10,7 +10,7 @@
   ">RENFORCE DYNAMICS</h1>
   
   <p style="font-size: 1.1em; color: #424242; font-style: italic; margin-top: -10px;">
-    // **Precision Robotics** ∩ **Deep Reinforcement Learning**
+    // Precision Robotics ∩ Deep Reinforcement Learning
   </p>
 </div>
 
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Open%20Issues-3-FF6F00?style=for-the-badge&logo=githubactions" alt="Open Issues Badge"/>
   <img src="https://img.shields.io/badge/Active%20Members-8-4CAF50?style=for-the-badge&logo=slack" alt="Active Members Badge"/>
   
-  <p style="font-size: 0.8em; color: #757575;">(Note: Stats above are illustrative. Connect your data pipeline for live updates.)</p>
+  <!-- <p style="font-size: 0.8em; color: #757575;">(Note: Stats above are illustrative. Connect your data pipeline for live updates.)</p> -->
 </div>
 
 ---
@@ -75,5 +75,5 @@ We are looking for brilliant minds to push the boundaries of RL and Robotics.
 <div align="center">
   <a href="https://renforce-dynamics.github.io">Website</a> | 
   <a href="mailto:ziang_zheng@foxmail.com">Email</a> | 
-  <a href="https://github.com/RenforceDynamics/.github/discussions.md">Discussions</a>
+  <a href="https://github.com/Renforce-Dynamics/.github/blob/main/discussions.md">Discussions</a>
 </div>
