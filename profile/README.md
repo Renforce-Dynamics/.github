@@ -1,79 +1,46 @@
 <div align="center">
-  <h1 style="
-    font-size: 2.8em; 
-    font-weight: 900; 
-    letter-spacing: 2px;
-    background: linear-gradient(45deg, #2962FF, #FF6F00, #2962FF); /* 科技蓝到活力橙的渐变 */
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    display: inline-block;
-  ">RENFORCE DYNAMICS</h1>
-  
-  <p style="font-size: 1.1em; color: #424242; font-style: italic; margin-top: -10px;">
-    // Precision Robotics ∩ Deep Reinforcement Learning
-  </p>
+
+  <!-- Top: Name + Lead -->
+  <div>
+    <span style="font-size:28px;font-weight:700;">Renforce Dynamics</span><br>
+    <span style="font-size:14px;color:#555;">Precision Robotics × Deep RL; </span>
+    <span style="font-size:13px;color:#666;">
+      Team Lead: <b>@ZiangZheng</b> · THU
+    </span>
+  </div>
+
+  <!-- Bottom: Description + Stars -->
+  <div style="font-size:13px;color:#444;">
+    Building adaptive, deployable motion intelligence for real-world robots.
+  </div>
+
+  <div style="margin-top:6px;">
+    <img src="https://img.shields.io/github/stars/Renforce-Dynamics?style=for-the-badge&label=Org%20Stars">
+  </div>
 </div>
 
----
+<hr/>
 
-## ⚡ Real-Time Status & Impact
+<b>We build adaptive, deployable motion intelligence for real-world robots.</b><br/>
+RL × control × hardware, focused on manipulation, whole-body behaviors, and Sim2Real.
 
-<div align="center">
-  <p>Our impact, live:</p>
-  
-  <img src="https://img.shields.io/badge/Repos-5%2B-00C853?style=for-the-badge&logo=github" alt="Repositories Badge"/>
-  <img src="https://img.shields.io/badge/Total%20Commits-1.2K-2962FF?style=for-the-badge&logo=git" alt="Commits Badge"/>
-  <img src="https://img.shields.io/badge/Open%20Issues-3-FF6F00?style=for-the-badge&logo=githubactions" alt="Open Issues Badge"/>
-  <img src="https://img.shields.io/badge/Active%20Members-8-4CAF50?style=for-the-badge&logo=slack" alt="Active Members Badge"/>
-  
-  <!-- <p style="font-size: 0.8em; color: #757575;">(Note: Stats above are illustrative. Connect your data pipeline for live updates.)</p> -->
-</div>
+<hr/>
 
----
+<b>Core Areas:</b>
+<ul>
+  <li>Deep RL — policies, world models, offline & constrained RL</li>
+  <li>Motion Control — robust controllers & real-time optimization</li>
+  <li>Sim2Real — pipelines, calibration, deployment</li>
+</ul>
 
-## 💡 Core Focus: RL-Driven Motion
+<hr/>
 
-**MISSION:** To forge **adaptive**, **efficient**, and **robust** robotic motion solutions by mastering the fusion of **AI** and **Physical Systems**.
+<b>Open Roles:</b> RL Intern · Robotics Engineer Intern · Motion Planning Engineer
 
-| Domain | Value Proposition | 
-| :--- | :--- | 
-| **Deep RL** | Algorithmic excellence in dynamic, real-world robotic control. |
-| **Motion Control** | Optimized stability and real-time responsiveness for complex actuators. |
-| **System Integration** | Seamless transition from simulation-to-hardware (Sim2Real). |
+📬 <a href="mailto:ziang_zheng@foxmail.com">ziang_zheng@foxmail.com</a> ·
+🌐 <a href="https://renforce-dynamics.github.io">Website</a> ·
+💬 <a href="https://github.com/Renforce-Dynamics/.github/blob/main/discussions.md">Discussion</a>
 
-<br>
+<hr/>
 
-## 🚀 Join Our Mission
-
-We are looking for brilliant minds to push the boundaries of RL and Robotics.
-
-* **Open Roles:** RL Intern, Robotics Engineer Intern, Full-Time Motion Planner.
-* **Collaborate:** Joint research, open-source contributions, and guest talks are welcome!
-
-<div align="center" style="margin: 20px 0;">
-  <a href="mailto:ziang_zheng@foxmail.com" style="text-decoration:none;">
-    <button style="
-      background-color: #FF6F00;
-      color: white; 
-      padding: 15px 35px; 
-      font-size: 1.1em; 
-      font-weight: bold;
-      border: 3px solid #E65100; /* 边框特效 */
-      border-radius: 8px; 
-      box-shadow: 0 4px 8px rgba(0,0,0,0.2); 
-      transition: background-color 0.3s, transform 0.2s; 
-      cursor: pointer;" 
-      onmouseover="this.style.backgroundColor='#E65100'; this.style.transform='scale(1.02)'" 
-      onmouseout="this.style.backgroundColor='#FF6F00'; this.style.transform='scale(1.0)'">
-      EMAIL US FOR CAREERS & PARTNERSHIPS
-    </button>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <a href="https://renforce-dynamics.github.io">Website</a> | 
-  <a href="mailto:ziang_zheng@foxmail.com">Email</a> | 
-  <a href="https://github.com/Renforce-Dynamics/.github/blob/main/discussions.md">Discussions</a>
-</div>
+<i>Pushing motion intelligence toward real-world reliability.</i>
