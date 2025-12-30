@@ -70,13 +70,7 @@
 
   Integrate RL with path planning for complex, unstructured scenarios  
 
-
-
-
-
 ---
-
-
 
 ## 🤝 Let’s Collaborate!  
 
@@ -104,43 +98,22 @@ Join us to build the next generation of robotic motion technology:
 
 - **Motion Planning Intern** (full-time, for experienced candidates)  
 
-
-
 <div align="center" style="margin: 20px 0;">  
-
   <a href="ziang_zheng@foxmail.com" style="text-decoration:none;">
-
     <button style="
-
       background-color:#2962FF;
-
       color:white;
-
       padding:10px 20px;
-
       font-size:16px;
-
       border:none;
-
       border-radius:5px;
-
       cursor:pointer;">
-
       📩 Apply / Contact Us
-
     </button>
-
   </a>
-
 </div>  
 
-
-
-
-
 ---
-
-
 
 ## 🔗 Connect With Us  
 
@@ -152,12 +125,6 @@ Join us to build the next generation of robotic motion technology:
 
 - 📢 Updates: Follow this repo for team news & project releases  
 
-
-
-
-
 ---
-
-
 
 💬 Let’s shape the future of robotic motion together! 🚀
