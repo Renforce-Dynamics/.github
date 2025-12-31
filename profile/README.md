@@ -55,5 +55,5 @@ learning-based control and real-world robotic systems.
 
 | Renforce Dynamics | **Join our WeChat Group** |
 |:--|:--|
-| <img src="../pics/icons/renforce-logo.png" alt="Renforce Dynamics" height="90"> | <img src="../pics/wechat_group/2025-12-30.jpg" alt="Renforce Dynamics WeChat Group" height="180"> |
+| <img src="../pics/icons/renforce-logo.png" alt="Renforce Dynamics" height="90"> | <img src="../pics/wechat_group/group.jpg" alt="Renforce Dynamics WeChat Group" height="180"> |
 
