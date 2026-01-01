@@ -17,26 +17,9 @@
   </span>
 </div>
 
----
-
 > **We build adaptive, deployable motion intelligence for real-world robots.**  
 > Reinforcement Learning × Control × Hardware, with a focus on  
 > **manipulation**, **whole-body behaviors**, and **Sim2Real deployment**.
-
----
-
-## Research Focus
-
-- **Deep Reinforcement Learning**  
-  Policy optimization · World models · Offline & constrained RL  
-
-- **Motion Control & Planning**  
-  Robust controllers · Whole-body control · Real-time optimization  
-
-- **Sim2Real Systems**  
-  Simulation pipelines · Calibration · On-robot deployment  
-
----
 
 ## Open Positions
 
@@ -45,9 +28,7 @@
 We are continuously looking for motivated students and engineers interested in
 learning-based control and real-world robotic systems.
 
-📬 **Contact**: [ziang_zheng@foxmail.com](mailto:ziang_zheng@foxmail.com)  
-🌐 **Website**: https://renforce-dynamics.github.io  
-💬 **Discussion**: https://github.com/Renforce-Dynamics/.github/blob/main/discussions.md  
+📬 **Contact**: [ziang_zheng@foxmail.com](mailto:ziang_zheng@foxmail.com)  🌐 [**Website**:](https://renforce-dynamics.github.io)  💬 [**Discussion**](https://github.com/Renforce-Dynamics/.github/blob/main/discussions.md)  
 
 ---
 
