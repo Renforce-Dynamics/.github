@@ -28,9 +28,9 @@
 📬 **Mail**: [ziang_zheng@foxmail.com](mailto:ziang_zheng@foxmail.com) 
 💬 **Wechat**: interval_package
 
-| **RedNote** | **WeChat Group** |
+| **RedNote** | **WeChat Group 1** | **WeChat Group 2** |
 |:--|:--|
-| <img src="../pics/wechat_group/rednote.jpg" alt="Renforce Dynamics" height="180"> | <img src="../pics/wechat_group/group.jpg" alt="Renforce Dynamics WeChat Group" height="180"> |
+| <img src="../pics/wechat_group/rednote.jpg" alt="Renforce Dynamics" height="150"> | <img src="../pics/wechat_group/group_1.jpg" alt="Renforce Dynamics WeChat Group" height="150"> | <img src="../pics/wechat_group/group_2.jpg" alt="Renforce Dynamics WeChat Group" height="150"> |
 
 ## One More Thing
 
