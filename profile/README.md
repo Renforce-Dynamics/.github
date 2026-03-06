@@ -60,6 +60,7 @@ Feel free to contact~ 📬 **Mail**: [ziang_zheng@foxmail.com](mailto:ziang_zhen
 |:--|:--|:--:|
 | [**beyondAMP**](https://github.com/Renforce-Dynamics/beyondAMP) | Advanced motion priors and AMP-style policy learning framework | <img src="https://img.shields.io/github/stars/Renforce-Dynamics/beyondAMP?style=social" /> |
 | [**trackerLab**](https://github.com/Renforce-Dynamics/trackerLab) | High-performance motion tracking and control utilities | <img src="https://img.shields.io/github/stars/Renforce-Dynamics/trackerLab?style=social" /> |
+| [**genesislab**](https://github.com/Renforce-Dynamics/genesislab) | Isaaclab but on genesis! Fast and simple | <img src="https://img.shields.io/github/stars/Renforce-Dynamics/genesislab?style=social" /> |
 | [**MultiModalWBC**](https://github.com/Renforce-Dynamics/MultiModalWBC) | Multi-modal whole-body control framework | <img src="https://img.shields.io/github/stars/Renforce-Dynamics/MultiModalWBC?style=social" /> |
 | [**IsaacNPC**](https://github.com/Renforce-Dynamics/IsaacNPC) | Character and behavior control in Isaac-based simulation | <img src="https://img.shields.io/github/stars/Renforce-Dynamics/IsaacNPC?style=social" /> |
 | [**soccerWeber**](https://github.com/Renforce-Dynamics/soccerWeber) | Humanoid soccer behavior learning framework | <img src="https://img.shields.io/github/stars/Renforce-Dynamics/soccerWeber?style=social" /> |
